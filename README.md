@@ -1,1 +1,1 @@
-# dice-game
+# javascript-Drumkit
